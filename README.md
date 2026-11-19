@@ -15,8 +15,6 @@ The code is organized as model-specific functions and research scripts. Paramete
 | Hartree–Fock | Landau-level form factors, exchange integrals, Hartree and Fock matrices, spin-resolved density-matrix updates, and ABA-specific DIIS routines |
 | Additional explorations | Velocity operators, band-overlap tracking, Berry-curvature and Wilson-loop scripts, and Stoner-model mean-field functions |
 
-Some exploratory scripts and placeholder files are unfinished. Their presence does not imply a complete standalone workflow; see [Research-code notes](#research-code-notes).
-
 ## Repository layout
 
 ```text
